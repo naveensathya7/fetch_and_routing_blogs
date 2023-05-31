@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.author-section {
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+}
+.bg-container {
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 30px;
+}
+.heading {
+  color: #000000;
+  text-align: center;
+}
+.item-image1 {
+  text-align: right;
+  width: 70vw;
+  height: 50%;
+  margin-right: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.content {
+  width: 70vw;
+}

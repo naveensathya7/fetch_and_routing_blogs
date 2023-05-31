@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.blog-item-container {
+  padding: 10px;
+  display: flex;
+  font-family: 'Roboto';
+  text-align: left;
+  width: 70vw;
+}
+.link-item {
+  text-decoration: none;
+}
+.item-image {
+  width: 260px;
+  height: 170px;
+  margin-right: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.avatar-image {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 45%;
+}
+.author-section {
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+}
+.details-section {
+  margin-top: 0px;
+  padding-top: 15px;
+}
+.topic {
+  color: #8e8e8e;
+  margin-top: 0px;
+}
+.title {
+  color: #000000;
+  font-size: 25px;
+}
